@@ -1,5 +1,14 @@
-# 💫 About Me:
-<br><br>I work across the full stack and focus on building things that solve real problems — backend services, APIs, data workflows, and increasingly, AI-driven features. Most of my work revolves around Python, SQL, TypeScript, FastAPI, NestJS, React, and AWS.<br><br>I’m intentionally pushing myself deeper into engineering by building systems with LLMs, experimenting with model compression, working with real-time architectures, and writing cleaner backend code. I enjoy breaking things down, understanding where they fail, and fixing them properly instead of throwing quick patches.<br><br>A big part of how I learn comes from studying how other developers structure their work, which is why GitHub stays central to my routine. It keeps me improving and exposes me to ideas I wouldn’t find on my own.<br><br>When I’m not building something new, I’m usually refactoring or optimizing something I wrote earlier — I like leaving things in a better state than I found them.
+# 💫 About Me
+I build practical things across the full stack — backend services, APIs, data workflows, and AI features. Most of the work I do is around Python, SQL, TypeScript, FastAPI, NestJS, React, and AWS.
+
+Lately, I’ve been focusing on improving my depth as an engineer. That means working on LLM-heavy systems, experimenting with model compression, building real-time services, and trying to write cleaner, more predictable backend architecture. I enjoy taking a messy problem, breaking it down, and fixing it properly instead of just patching it.
+
+I spend a lot of time studying how other developers solve problems. GitHub has been a big part of that — it keeps me grounded and constantly improving.
+
+If I’m not building something new, I’m usually refactoring or optimizing something old. I like leaving things in a better state than I found them.
+
+
+---
 
 
 ## 🌐 Socials:
