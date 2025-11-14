@@ -24,7 +24,6 @@ If I’m not building something new, I’m usually refactoring or optimizing som
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=code-infected&theme=transparent&hide_border=false)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=code-infected&layout=compact&theme=transparent&hide_border=false)
 
 
 ## 🏆 GitHub Trophies
