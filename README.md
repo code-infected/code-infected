@@ -21,7 +21,6 @@ If I’m not building something new, I’m usually refactoring or optimizing som
 
 # 📊 GitHub Stats
 
-![Code-Infected's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=code-infected&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=code-infected&theme=transparent&hide_border=false)
 
