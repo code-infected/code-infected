@@ -10,6 +10,19 @@ If I’m not building something new, I’m usually refactoring or optimizing som
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 Supactl — Native Supabase Desktop Client  
+🔗 https://github.com/code-infected/supactl
+
+A native desktop application for Supabase that eliminates the need for the browser-based dashboard. Built for speed, reliability, and a better developer workflow.
+
+**Core Idea:**  
+Supabase Studio, but native — faster, offline-capable, and more controlled.
+
+---
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athul-nair-m) 
